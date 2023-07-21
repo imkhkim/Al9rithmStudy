@@ -47,7 +47,7 @@ ex) feat: BOJ_18312 시각 풀이
 PR 작성 - PR 템플릿 형식 맞춰서 작성
 
 Merge시 Commit Message
-ex) merge: 01_week 풀이
+ex) merge: 01_week 2문제 성공 1문제 실패
 
 
 기타사항
