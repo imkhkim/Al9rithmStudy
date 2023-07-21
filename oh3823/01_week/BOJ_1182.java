@@ -24,6 +24,7 @@ public class Main {
     }
 
     public static void dfs(int now, int sum) {
+        // 이후에 음수가 나올 수도 있기 때문에 가지치기 X
         if (sum == S)
             answer++;
 
