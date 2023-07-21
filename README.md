@@ -42,12 +42,10 @@
 ex) ../01_week/BOJ_18312.java
 
 fork한 개인 레포지토리 Commit Message
-ex) feat: BOJ_18312 시각 풀이
-
-PR 작성 - PR 템플릿 형식 맞춰서 작성
+ex) BOJ_18312 시각 풀이
 
 Merge시 Commit Message
-ex) merge: 01_week 2문제 성공 1문제 실패
+ex) 01_week 2문제 성공 1문제 실패
 
 
 기타사항
