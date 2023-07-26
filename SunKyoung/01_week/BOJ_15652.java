@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // N과 M (4)
-public class Main {
+public class BOJ_15652 {
     public static int N, M;
     public static int[] arr;
     public static StringBuilder sb = new StringBuilder();
