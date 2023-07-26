@@ -1,3 +1,6 @@
+// 암호 만들기
+// https://www.acmicpc.net/problem/1759
+
 import java.util.Arrays;
 import java.util.Scanner;
 
