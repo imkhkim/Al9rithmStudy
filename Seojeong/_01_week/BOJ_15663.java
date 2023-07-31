@@ -5,8 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-
-
 public class BOJ_15663 {
 
     static int N,M;
@@ -24,7 +22,6 @@ public class BOJ_15663 {
             return;
         }
 
-//        1 7 9 9
         int last = 0;
         for (int i = 0; i < N; i++) {
             if(last == arr[i]) continue;
