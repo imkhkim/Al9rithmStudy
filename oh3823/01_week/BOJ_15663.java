@@ -29,7 +29,7 @@ class Main {
         int last = 0;
         for (int i = 0; i < N; i++) {
             if (i > 0 && arr[i] == last) continue;
-            // 같은 level에서 선택했던 것을 또 선택하면 중복된 수열을 생성한다.
+            // 같은 level에서 d선택했던 것을 또 선택하면 중복된 수열을 생성한다.
             answer[0] = arr[i];
             selected[i] = true;
             dfs(1, i);
