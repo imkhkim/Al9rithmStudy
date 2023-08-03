@@ -1,60 +1,59 @@
 package Seojeong._01_week;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
 
 public class BOJ_15663 {
-    static int N, M;
-    static int[] num, arr, cnt;
+
+    static int N,M;
+    static int[] arr, res;
     static boolean[] isUsed;
-    static Set<String> set = new HashSet<>();
+    static StringBuilder sb = new StringBuilder();
 
     static void DFS(int depth) {
-        if (depth == M) {
-            String tmp = "";
+
+        if(depth == M){
             for (int i = 0; i < M; i++) {
-                tmp += arr[i]+" ";
+                sb.append(res[i]).append(' ');
             }
-            set.add(tmp);
+            sb.append('\n');
             return;
         }
 
+        int last = 0;
         for (int i = 0; i < N; i++) {
-            if (!isUsed[i]) {
+            if(last == arr[i]) continue;
+            if(!isUsed[i]){
                 isUsed[i] = true;
-                arr[depth] = num[i];
-                DFS(depth + 1);
+                res[depth] = arr[i];
+                last = arr[i];
+                DFS(depth+1);
                 isUsed[i] = false;
             }
-
         }
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        Scanner sc = new Scanner(System.in);
+        String[] line = br.readLine().split(" ");
+        N = Integer.parseInt(line[0]);
+        M = Integer.parseInt(line[1]);
 
-        N = sc.nextInt();
-        M = sc.nextInt();
-
-        num = new int[N];
-        arr = new int[M];
-        cnt = new int[11];
+        arr = new int[N];
+        res = new int[M];
         isUsed = new boolean[N];
 
+        line = br.readLine().split(" ");
         for (int i = 0; i < N; i++) {
-            num[i] = sc.nextInt();
+            arr[i] = Integer.parseInt(line[i]);
         }
 
+        Arrays.sort(arr);
         DFS(0);
-        Object[] set_arr = set.toArray();
-        Arrays.sort(set_arr);
-        for (Object s : set_arr) {
-            System.out.println(s);
-        }
-
-    }
+        System.out.println(sb);
+     }
 }
