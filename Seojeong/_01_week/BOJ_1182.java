@@ -17,7 +17,7 @@ public class BOJ_1182 {
                     sum += arr[i];
                 }
             }
-            if (tmp.length() > 0&& sum == S) {
+            if (tmp.length() > 0 && sum == S) {
                 count+=1;
             }
             return;
