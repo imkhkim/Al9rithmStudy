@@ -1,9 +1,9 @@
-// 부분수열의 합
+package oh3823.week_01;// 부분수열의 합
 // https://www.acmicpc.net/problem/1182
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_1182 {
     static int[] arr;
     static int answer;
     static int N, S;

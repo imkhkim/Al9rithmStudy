@@ -1,9 +1,9 @@
-// N과 M (1)
+package oh3823.week_01;// N과 M (1)
 // https://www.acmicpc.net/problem/15649
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_15649 {
     static int N, M;
 
     static int[] path;

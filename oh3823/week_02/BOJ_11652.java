@@ -1,10 +1,10 @@
-// 카드
+package oh3823.week_02;// 카드
 // https://www.acmicpc.net/problem/11652
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Main {
+class BOJ_11652 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

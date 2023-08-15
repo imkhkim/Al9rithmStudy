@@ -1,11 +1,11 @@
-// 단어 정렬
+package oh3823.week_02;// 단어 정렬
 // https://www.acmicpc.net/problem/1181
 
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Main {
+public class BOJ_1181 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
