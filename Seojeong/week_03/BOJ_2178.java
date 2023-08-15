@@ -1,4 +1,4 @@
-package Seojeong.week_04;
+package Seojeong.week_03;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.*;
 public class BOJ_2178 {
     static int N, M;
     static int[][] maze, cnt;
-    static boolean[][] visited;
+    //    static boolean[][] visited;
     static int[] di = {0, 1, 0, -1}, dj = {1, 0, -1, 0};
     static Queue<Point> queue;
 
@@ -33,7 +33,7 @@ public class BOJ_2178 {
         queue = new LinkedList();
 
         queue.offer(new Point(start_i, start_j));
-        visited[start_i][start_j] = true;
+//        visited[start_i][start_j] = true;
         cnt[start_i][start_j] = 1;
 
 
@@ -43,10 +43,11 @@ public class BOJ_2178 {
                 int next_i = current.x + di[d];
                 int next_j = current.y + dj[d];
                 if (0 <= next_i && next_i < N && 0 <= next_j && next_j < M
-                        && visited[next_i][next_j] == false
+//                        && visited[next_i][next_j] == false
+                        && cnt[next_i][next_j] == 0
                         && maze[next_i][next_j] == 1) {
                     queue.offer(new Point(next_i, next_j));
-                    visited[next_i][next_j] = true;
+//                    visited[next_i][next_j] = true;
                     cnt[next_i][next_j] = cnt[current.x][current.y] + 1;
                 }
 
@@ -68,7 +69,7 @@ public class BOJ_2178 {
         M = Integer.parseInt(st.nextToken());
 
         maze = new int[N][M];
-        visited = new boolean[N][M];
+//        visited = new boolean[N][M];
         cnt = new int[N][M];
 
         for (int i = 0; i < N; i++) {
@@ -78,15 +79,10 @@ public class BOJ_2178 {
             }
         }
 
-        bfs(0,0);
-//        for (int i = 0; i < N; i++) {
-//            for (int j = 0; j < M; j++) {
-//                System.out.print(cnt[i][j]);
-//            }
-//            System.out.println();
-//        }
-        System.out.println(cnt[N-1][M-1]);
+        bfs(0, 0);
+
+            System.out.println(cnt[N - 1][M - 1]);
+
+
     }
-
-
 }
