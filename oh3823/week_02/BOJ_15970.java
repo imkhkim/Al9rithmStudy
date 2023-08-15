@@ -1,10 +1,10 @@
-// 화살표 그리기
+package oh3823.week_02;// 화살표 그리기
 // https://www.acmicpc.net/problem/15970
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_15970 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

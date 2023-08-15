@@ -1,10 +1,10 @@
-// 파일 정리
+package oh3823.week_02;// 파일 정리
 // https://www.acmicpc.net/problem/20291
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_20291 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
