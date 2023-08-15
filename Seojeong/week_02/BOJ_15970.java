@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -14,6 +15,7 @@ import java.util.TreeSet;
 public class BOJ_15970 {
     static Map<Integer, Integer> dots = new HashMap<>();
     static Map<Integer, Set<Integer>> colors = new HashMap<>();
+    static List<Integer> keys;
     static int N;
 
     static int distance(int x) {
@@ -21,6 +23,7 @@ public class BOJ_15970 {
         int p_color = dots.get(x);
 
         List<Integer> color_arr = new ArrayList<>(colors.get(p_color));
+        Collections.sort(color_arr);
 
         int color_idx = color_arr.indexOf(x);
 

@@ -14,7 +14,7 @@
 ## ✔️ 이번주 문제
 |주차|날짜|문제 유형|필수 문제|난이도|비고|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|week_02|07.28 ~ 08.03|정렬|1️⃣ [화살표 그리기](https://www.acmicpc.net/problem/15970)</br>2️⃣ [단어 정렬](https://www.acmicpc.net/problem/1181)</br>3️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) |🥈4 </br> 🥈5 </br> 🥈3|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03~04-%EC%A0%95%EB%A0%AC)|
+|week_03|08.04 ~ 08.10|이분탐색 & 투포인터|1️⃣ [숫자 카드2](https://www.acmicpc.net/problem/10816)</br>2️⃣ [K번째 수](https://www.acmicpc.net/problem/1300)</br>1️⃣ [부분합](https://www.acmicpc.net/problem/1806)</br> 2️⃣ [좋다](https://www.acmicpc.net/problem/1253)</br> 3️⃣[두 수의 합](https://www.acmicpc.net/problem/3273) |🥈4 </br> 🥇2 </br> 🥇4 </br> 🥇4 </br> 🥈3 |[선택문제1](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)</br> [선택문제2](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07~08-%EB%91%90%20%ED%8F%AC%EC%9D%B8%ED%84%B0)|
 </br>
 
 ## :chart_with_upwards_trend: 진행상황
@@ -26,6 +26,7 @@
 |주차|일정|imkhkim|sjytis14|oh3823|Sunkyoung-Yoon|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |01_week|07.21 ~ 07.27|✅|🔺|✅|✅|
+|week_02|07.28 ~ 08.03|✅|✅|✅|✅|
 </br>
 
 ## :pushpin: 진행방식
@@ -59,8 +60,9 @@ ex) refactor: BOJ_18312 주석 작성
 ## :clipboard: 주차별 진행
 |주차|일정|문제 유형|필수 문제|난이도|비고|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|01_week|07.27(목) 20:00|완전탐색|1️⃣ [부분수열의 합](https://www.acmicpc.net/problem/1182)</br>2️⃣ [암호 만들기](https://www.acmicpc.net/problem/1759)</br>3️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) |🥈2 </br> 🥇5 </br> 🥈2|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89)|
-|week_02|08.03(목) 20:00|정렬|1️⃣ [화살표 그리기](https://www.acmicpc.net/problem/15970)</br>2️⃣ [단어 정렬](https://www.acmicpc.net/problem/1181)</br>3️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) |🥈4 </br> 🥈5 </br> 🥈3|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03~04-%EC%A0%95%EB%A0%AC)|
+|01_week|07.27(목) 21:00|완전탐색|1️⃣ [부분수열의 합](https://www.acmicpc.net/problem/1182)</br>2️⃣ [암호 만들기](https://www.acmicpc.net/problem/1759)</br>3️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) |🥈2 </br> 🥇5 </br> 🥈2|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89)|
+|week_02|08.03(목) 21:00|정렬|1️⃣ [화살표 그리기](https://www.acmicpc.net/problem/15970)</br>2️⃣ [단어 정렬](https://www.acmicpc.net/problem/1181)</br>3️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) |🥈4 </br> 🥈5 </br> 🥈3|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03~04-%EC%A0%95%EB%A0%AC)|
+|week_03|08.10(목) 20:00|이분탐색 & 투포인터|1️⃣ [숫자 카드2](https://www.acmicpc.net/problem/10816)</br>2️⃣ [K번째 수](https://www.acmicpc.net/problem/1300)</br>1️⃣ [부분합](https://www.acmicpc.net/problem/1806)</br> 2️⃣ [좋다](https://www.acmicpc.net/problem/1253)</br> 3️⃣[두 수의 합](https://www.acmicpc.net/problem/3273) |🥈4 </br> 🥇2 </br> 🥇4 </br> 🥇4 </br> 🥈3 |[선택문제1](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)</br> [선택문제2](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07~08-%EB%91%90%20%ED%8F%AC%EC%9D%B8%ED%84%B0)|
 </br>
 </br>
 
