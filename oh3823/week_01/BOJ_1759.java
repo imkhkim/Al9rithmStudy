@@ -1,10 +1,10 @@
-// 암호 만들기
+package oh3823.week_01;// 암호 만들기
 // https://www.acmicpc.net/problem/1759
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_1759 {
     static int L, C;
     static char[] arr;
 

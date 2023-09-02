@@ -1,5 +1,5 @@
-// N과 M (3)
-// https://www.acmicpc.net/problem/15651
+package oh3823.week_01;// N과 M (4)
+// https://www.acmicpc.net/problem/15652
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,9 +8,9 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ_15652 {
     static int N, M;
-    static int[] path = new int[7];
+    static int[] path;
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     public static void main(String[] args) throws IOException {
@@ -19,11 +19,12 @@ public class Main {
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
 
-        dfs(0);
+        path = new int[M];
+        dfs(0, 1);
         bw.flush();
     }
 
-    public static void dfs(int lv) throws IOException {
+    public static void dfs(int lv, int now) throws IOException {
         if (lv == M) {
             for (int i = 0; i < M; i++)
                 bw.write(path[i] + " ");
@@ -31,9 +32,9 @@ public class Main {
             return;
         }
 
-        for (int i = 1; i <= N; i++) {
+        for (int i = now; i <= N; i++) {
             path[lv] = i;
-            dfs(lv + 1);
+            dfs(lv + 1, i);
         }
     }
 }

@@ -1,9 +1,9 @@
-// N-Queen
+package oh3823.week_01;// N-Queen
 // https://www.acmicpc.net/problem/9663
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_9663 {
     static int N;
     static boolean[] col, diagL, diagR;
     static int answer;

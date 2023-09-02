@@ -1,9 +1,9 @@
-// N과 M (9)
+package oh3823.week_01;// N과 M (9)
 // https://www.acmicpc.net/problem/15663
 
 import java.util.*;
 
-class Main {
+class BOJ_15663 {
     static int N, M;
     static int[] arr;
     static int[] answer;

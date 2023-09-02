@@ -1,0 +1,136 @@
+import java.util.*;
+import java.io.*;
+
+public class SWEA_1953_탈주범검거 {
+	static int N,M,R,C,L;
+	static int[][] map;
+	static int[][] copy; // 이동했을 때, 시간 저장할 배열
+	static int[][] tunnel = {{0}, // 카메라번호 0번인 경우는 없는 경우 임의로 0배치
+			{0,1,2,3}, // 터널 번호 1
+			{0,1}, // 터널 번호 2
+			{2,3}, // 터널 번호 3
+			{0,3}, // 터널 번호 4
+			{1,3}, // 터널 번호 5
+			{1,2}, // 터널 번호 6
+			{0,2}}; // 터널 번호 7
+	static int[] di = {-1,1,0,0}; // 상하좌우
+	static int[] dj = {0,0,-1,1};
+	static boolean[][] visited;
+	public static void main(String[] args) throws IOException{
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st;
+		StringBuilder sb = new StringBuilder();
+		
+		int T = Integer.parseInt(br.readLine()); // 테스크 케이스 개수
+		
+		for(int tc=1; tc<=T; tc++) {
+			st = new StringTokenizer(br.readLine());
+			N = Integer.parseInt(st.nextToken()); // 세로
+			M = Integer.parseInt(st.nextToken()); // 가로
+			R = Integer.parseInt(st.nextToken()); // 맨홀 세로
+			C = Integer.parseInt(st.nextToken()); // 맨홀 가로
+			L = Integer.parseInt(st.nextToken()); // 탈출 후 소요시간
+			
+			// 지도 저장
+			map = new int[N][M];
+			for(int i=0; i<N; i++) {
+				st = new StringTokenizer(br.readLine());
+				for(int j=0; j<M; j++) {
+					map[i][j] = Integer.parseInt(st.nextToken());
+				}
+			}
+			
+			
+			copy = new int[N][M]; // 위치마마 도착시간 저장할 배열
+			visited = new boolean[N][M];
+			copy[R][C] = 1; // 맨홀 지점은 탈주범이 한시간뒤에 들어간 곳
+			bfs(R,C); // 맨홀위치로부터 탐색 시작
+			
+			int result = 0;
+			for(int i=0; i<N; i++) {
+				for(int j=0; j<M; j++) {
+					// L시간 이하로 이동한 위치 세기 , 0인곳은 터널 없는 곳이므로 제외
+					if(copy[i][j] <= L && copy[i][j]!=0) {
+						result++;
+					}
+				}
+			}
+			
+			sb.append("#"+tc+" "+result).append("\n");
+		} // 테스트 케이스 종료
+		
+		System.out.println(sb);
+	}
+	
+	
+	static void bfs(int starti, int startj) {
+		Queue<Point> queue = new LinkedList<>();
+		queue.add(new Point(starti, startj));
+		visited[starti][startj] = true;
+		
+		while(!queue.isEmpty()) {
+			Point now = queue.poll();
+			
+			int tunnelNum = map[now.i][now.j]; //터널 번호
+			int idx = 0;
+			// 터널에서 이동가능한 방향으로 전진
+			// 터널별로 이동가능한 방법수 만큼 반복
+			for(int d=0; d<tunnel[tunnelNum].length; d++) {
+				int dir = tunnel[tunnelNum][d]; // 이동할 방향
+				int nexti = now.i+di[dir];
+				int nextj = now.j+dj[dir];
+				
+				// 지도내에 있고 터널이 있는 곳이며 방문하지 않은 곳이라면
+				// 다음 칸에 있는 터널이 연결 가능하다면
+				if(nexti>=0 && nexti<N && nextj>=0 && nextj<M &&
+						map[nexti][nextj]!=0 && !visited[nexti][nextj] &&
+						check(nexti, nextj, dir)) {
+					queue.add(new Point(nexti, nextj));
+					visited[nexti][nextj] = true;
+					
+					// 해당위치에 도달할 때까지 걸린 시간 저장
+					copy[nexti][nextj] = copy[now.i][now.j]+1;
+				}
+			}
+		}
+	}
+	
+	// 방향과 다음 좌표
+	static boolean check(int nexti, int nextj, int dir) {
+		switch(dir) {
+		case 0: // 현재 방향이 위라면 다음 좌표는 아래 방향이 있어야 함
+			if(map[nexti][nextj]==1 || map[nexti][nextj]==2 ||
+					map[nexti][nextj]==5 || map[nexti][nextj]==6)
+				return true;
+			break;
+		case 1: // 현재 방향이 아래라면 다음 좌표는 위 방향이 있어야 함
+			if(map[nexti][nextj]==1 || map[nexti][nextj]==2 ||
+					map[nexti][nextj]==4 || map[nexti][nextj]==7)
+				return true;
+			break;
+		case 2: // 현재 방향이 좌라면 다음 좌표는 우 방향이 있어야 함
+			if(map[nexti][nextj]==1 || map[nexti][nextj]==3 ||
+					map[nexti][nextj]==4 || map[nexti][nextj]==5)
+				return true;
+			break;
+		case 3: // 현재 방향이 우라면 다음 좌표는 좌 방향이 있어야 함
+			if(map[nexti][nextj]==1 || map[nexti][nextj]==3 ||
+					map[nexti][nextj]==6 || map[nexti][nextj]==7)
+				return true;
+			break;
+		}
+		
+		return false;
+	}
+	
+	static class Point{
+		int i,j;
+
+		public Point(int i, int j) {
+			super();
+			this.i = i;
+			this.j = j;
+		}
+	}
+
+}

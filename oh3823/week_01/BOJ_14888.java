@@ -1,9 +1,9 @@
-// 연산자 끼워넣기
+package oh3823.week_01;// 연산자 끼워넣기
 // https://www.acmicpc.net/problem/14888
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_14888 {
     static int N;
     static int[] A;
     static int[] op;
