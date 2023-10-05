@@ -14,7 +14,7 @@
 ## ✔️ 이번주 문제
 |주차|날짜|문제 유형|필수 문제|난이도|비고|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|week_03|08.04 ~ 08.10|이분탐색 & 투포인터|1️⃣ [숫자 카드2](https://www.acmicpc.net/problem/10816)</br>2️⃣ [K번째 수](https://www.acmicpc.net/problem/1300)</br>1️⃣ [부분합](https://www.acmicpc.net/problem/1806)</br> 2️⃣ [좋다](https://www.acmicpc.net/problem/1253)</br> 3️⃣[두 수의 합](https://www.acmicpc.net/problem/3273) |🥈4 </br> 🥇2 </br> 🥇4 </br> 🥇4 </br> 🥈3 |[선택문제1](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)</br> [선택문제2](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07~08-%EB%91%90%20%ED%8F%AC%EC%9D%B8%ED%84%B0)|
+|week_12|10.06(금) 12:30|문자열|1️⃣ [회문](https://www.acmicpc.net/problem/17609)</br>2️⃣ [괄호 제거](https://www.acmicpc.net/problem/2800)</br>1️⃣ [문자열 폭발](https://www.acmicpc.net/problem/9935)</br> |🥇5 </br> 🥇5 </br> 🥇4 ||
 </br>
 
 ## :chart_with_upwards_trend: 진행상황
