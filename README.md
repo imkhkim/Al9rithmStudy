@@ -33,6 +33,7 @@
 |week_06|08.18 ~ 08.27|✅|✅|✅|✅|
 |week_07|08.28 ~ 09.03|✅|✅|✅|✅|
 |week_08|09.04 ~ 09.07|✅|✅|✅|✅|
+|week_09|09.08 ~ 09.14|✅|✅|✅|✅|
 </br>
 
 ## :pushpin: 진행방식
@@ -75,6 +76,7 @@ ex) refactor: BOJ_18312 주석 작성
 |week_06|08.27(일) 20:00 (온라인) |A형 기출|1️⃣ [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq#none)</br> |모의 SW 역량테스트 |[줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|
 |week_07|09.03(일) 20:00 (온라인) |오답 노트|각자 8월 문제 중 복습할 문제 다시 풀기 |||
 |week_08|09.07(목) 20:00 |Programmers Lv.3 3문제|1️⃣ [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)</br>2️⃣ [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)</br>3️⃣ [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)</br>|Lv.3||
+|week_09|09.14(목) 20:00 |Programmers Lv.3 3문제|1️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)</br>2️⃣ [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)</br>3️⃣ [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)</br>|Lv.3||
 </br>
 </br>
 
