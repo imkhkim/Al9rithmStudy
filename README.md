@@ -35,6 +35,7 @@
 |week_08|09.04 ~ 09.07|✅|✅|✅|✅|
 |week_09|09.08 ~ 09.14|✅|✅|✅|✅|
 |week_10|09.15 ~ 09.22|✅|✅|✅|🔺|
+|week_10|09.15 ~ 09.22|✅|✅|✅|✅|
 </br>
 
 ## :pushpin: 진행방식
@@ -77,8 +78,9 @@ ex) refactor: BOJ_18312 주석 작성
 |week_06|08.27(일) 20:00 (온라인) |A형 기출|1️⃣ [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq#none)</br> |모의 SW 역량테스트 |[줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|
 |week_07|09.03(일) 20:00 (온라인) |오답 노트|각자 8월 문제 중 복습할 문제 다시 풀기 |||
 |week_08|09.07(목) 20:00 |Programmers Lv.3 3문제|1️⃣ [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)</br>2️⃣ [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)</br>3️⃣ [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)</br>|Lv.3||
-|week_09|09.14(목) 20:00 |Programmers Lv.3 3문제|1️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)</br>2️⃣ [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)</br>3️⃣ [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)</br>|Lv.3||
-|week_10|09.22(금) 20:00 |Programmers Lv.3 3문제|1️⃣ [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)</br>2️⃣ [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)</br>3️⃣ [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)</br>|Lv.3||
+|week_09|09.14(목) 12:30 |Programmers Lv.3 3문제|1️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)</br>2️⃣ [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)</br>3️⃣ [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)</br>|Lv.3||
+|week_10|09.22(금) 12:30 |Programmers Lv.3 3문제|1️⃣ [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)</br>2️⃣ [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)</br>3️⃣ [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)</br>|Lv.3||
+|week_11|09.27(수) 12:30 |0/1 Knapsack & 최장증가수열 & 플로이드워샬|1️⃣ [평범한 배낭](https://www.acmicpc.net/problem/12865)</br>2️⃣ [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)</br>3️⃣ [플로이드](https://www.acmicpc.net/problem/11404)</br>|🥇5 </br> 🥈2 </br> 🥇4 </br>||
 </br>
 </br>
 
