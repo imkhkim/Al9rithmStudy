@@ -27,6 +27,8 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |01_week|07.21 ~ 07.27|✅|🔺|✅|✅|
 |week_02|07.28 ~ 08.03|✅|✅|✅|✅|
+|week_03|08.04 ~ 08.10|🔺|🔺|✅|🔺|
+|week_04|08.11 ~ 08.16|✅|✅|✅|✅|
 </br>
 
 ## :pushpin: 진행방식
@@ -64,6 +66,7 @@ ex) refactor: BOJ_18312 주석 작성
 |week_02|08.03(목) 21:00|정렬|1️⃣ [화살표 그리기](https://www.acmicpc.net/problem/15970)</br>2️⃣ [단어 정렬](https://www.acmicpc.net/problem/1181)</br>3️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) |🥈4 </br> 🥈5 </br> 🥈3|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03~04-%EC%A0%95%EB%A0%AC)|
 |week_03-1|08.10(목) 20:00|이분탐색 & 투포인터|1️⃣ [숫자 카드2](https://www.acmicpc.net/problem/10816)</br>2️⃣ [K번째 수](https://www.acmicpc.net/problem/1300)</br>1️⃣ [부분합](https://www.acmicpc.net/problem/1806)</br> 2️⃣ [좋다](https://www.acmicpc.net/problem/1253)</br> 3️⃣[두 수의 합](https://www.acmicpc.net/problem/3273) |🥈4 </br> 🥇2 </br> 🥇4 </br> 🥇4 </br> 🥈3 |[선택문제1](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)</br> [선택문제2](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07~08-%EB%91%90%20%ED%8F%AC%EC%9D%B8%ED%84%B0)|
 |week_03-2|08.13(일) 20:00 (온라인)|그래프|1️⃣ [미로 탐색](https://www.acmicpc.net/problem/2178)</br>2️⃣ [연결요소의 개수](https://www.acmicpc.net/problem/11724)</br>3️⃣ [유기농 배추](https://www.acmicpc.net/problem/1012)</br> 4️⃣ [결혼식](https://www.acmicpc.net/problem/5567)</br> 5️⃣ [효율적인 해킹](https://www.acmicpc.net/problem/1325) |🥈1 </br> 🥈2 </br> 🥈2 </br> 🥈2 </br> 🥈1 |[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)|
+|week_04|08.16(수) 20:00 |트리|1️⃣ [트리](https://www.acmicpc.net/problem/1068)</br>2️⃣ [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)</br>3️⃣ [회사 문화1](https://www.acmicpc.net/problem/14267)</br> |🥇5 </br> 🥇4 </br> 🥇4 </br> |[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-%ED%8A%B8%EB%A6%AC)|
 </br>
 </br>
 
