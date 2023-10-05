@@ -31,6 +31,7 @@
 |week_04|08.11 ~ 08.16|✅|✅|✅|✅|
 |week_05|08.17 ~ 08.22|✅|✅|✅|✅|
 |week_06|08.18 ~ 08.27|✅|✅|✅|✅|
+|week_07|08.28 ~ 09.03|✅|✅|✅|✅|
 </br>
 
 ## :pushpin: 진행방식
@@ -71,6 +72,7 @@ ex) refactor: BOJ_18312 주석 작성
 |week_04|08.16(수) 20:00 |트리|1️⃣ [트리](https://www.acmicpc.net/problem/1068)</br>2️⃣ [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)</br>3️⃣ [회사 문화1](https://www.acmicpc.net/problem/14267)</br> |🥇5 </br> 🥇4 </br> 🥇4 </br> |[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-%ED%8A%B8%EB%A6%AC)|
 |week_05|08.22(화) 20:00 |최단 경로 & DP & A형 기출|1️⃣ [최소비용 구하기](https://www.acmicpc.net/problem/1916)</br>2️⃣ [최단 경로](https://www.acmicpc.net/problem/1753)</br>3️⃣ [계단 오르기](https://www.acmicpc.net/problem/2579)</br> |🥇5 </br> 🥇4 </br> 🥈3 </br> |[스타트 택시](https://www.acmicpc.net/problem/19238)|
 |week_06|08.27(온라인) 20:00 |A형 기출|1️⃣ [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq#none)</br> |모의 SW 역량테스트 |[줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|
+|week_07|09.03(온라인) 20:00 |오답 노트|각자 8월 문제 중 복습할 문제 다시 풀기 |||
 </br>
 </br>
 
