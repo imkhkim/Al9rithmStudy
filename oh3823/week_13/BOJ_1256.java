@@ -31,7 +31,6 @@ class BOJ_1256 {
             System.out.println(-1);
             return;
         }
-
         StringBuilder sb = new StringBuilder();
         int n = N, m = M, k = K;
 
