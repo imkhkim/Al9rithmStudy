@@ -1,10 +1,10 @@
-package Seojeong.week_11;
+package Seojeong.week_12;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_17609 {
+public class BOJ_17609_회문 {
 
     public static void main(String[] args) throws NumberFormatException, IOException {
 
