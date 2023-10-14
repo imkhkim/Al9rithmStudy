@@ -1,4 +1,4 @@
-package Seojeong.week_11;
+package Seojeong.week_12;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
-public class BOJ_2800 {
+public class BOJ_2800_괄호제거 {
     static String origin;
     static LinkedList<Pair> pairs, selected;
 
