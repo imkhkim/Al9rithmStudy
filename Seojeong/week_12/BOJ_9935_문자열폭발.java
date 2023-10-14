@@ -1,10 +1,10 @@
-package Seojeong.week_11;
+package Seojeong.week_12;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_9935 {
+public class BOJ_9935_문자열폭발 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
