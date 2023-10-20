@@ -14,7 +14,7 @@
 ## ✔️ 이번주 문제
 |주차|날짜|문제 유형|필수 문제|난이도|선택 문제|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|week_14|10.19(목) 12:30| Programmers SQL 고득점 Kit | [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) | Lv.2, Lv.3 | Lv.4 |
+|week_15|10.26(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3||
 </br>
 
 ## :chart_with_upwards_trend: 진행상황
@@ -37,7 +37,8 @@
 |week_10|09.15 ~ 09.22|✅|✅|✅|🔺|
 |week_11|09.23 ~ 09.27|✅|✅|✅|✅|
 |week_12|09.28 ~ 10.05|✅|✅|✅|✅|
-|week_13|10.06 ~ 10.12|||||
+|week_13|10.06 ~ 10.12|✅|🔺|✅|🔺|
+|week_14|10.13 ~ 10.19|||||
 </br>
 
 ## :pushpin: 진행방식
@@ -85,6 +86,7 @@ ex) refactor: BOJ_18312 주석 작성
 |week_11|09.27(수) 12:30 |0/1 Knapsack & 최장증가수열 & 플로이드워샬|1️⃣ [평범한 배낭](https://www.acmicpc.net/problem/12865)</br>2️⃣ [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)</br>3️⃣ [플로이드](https://www.acmicpc.net/problem/11404)</br>|🥇5 </br> 🥈2 </br> 🥇4 </br>||
 |week_12|10.05(목) 12:30|문자열|1️⃣ [회문](https://www.acmicpc.net/problem/17609)</br>2️⃣ [괄호 제거](https://www.acmicpc.net/problem/2800)</br>3️⃣ [문자열 폭발](https://www.acmicpc.net/problem/9935)</br> |🥇5 </br> 🥇5 </br> 🥇4 ||
 |week_13|10.12(목) 12:30|집합과 조합론|1️⃣ [사전](https://www.acmicpc.net/problem/1256)</br>2️⃣ [순열의 순서](https://www.acmicpc.net/problem/1722)</br>3️⃣ [괄호](https://www.acmicpc.net/problem/10422)</br> |🥇2 </br> 🥇5 </br> 🥇4 ||
+|week_14|10.19(목) 12:30| Programmers SQL 고득점 Kit</br> Lv.2, Lv.3 | [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) | Lv.2</br> Lv.3 | Lv.4 |
 </br>
 </br>
 
