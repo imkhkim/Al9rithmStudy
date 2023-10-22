@@ -12,9 +12,9 @@
 </br>
 
 ## ✔️ 이번주 문제
-|주차|날짜|문제 유형|필수 문제|난이도|비고|
+|주차|날짜|문제 유형|필수 문제|난이도|선택 문제|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|week_12|10.06(금) 12:30|문자열|1️⃣ [회문](https://www.acmicpc.net/problem/17609)</br>2️⃣ [괄호 제거](https://www.acmicpc.net/problem/2800)</br>1️⃣ [문자열 폭발](https://www.acmicpc.net/problem/9935)</br> |🥇5 </br> 🥇5 </br> 🥇4 ||
+|week_15|10.26(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3||
 </br>
 
 ## :chart_with_upwards_trend: 진행상황
@@ -36,6 +36,9 @@
 |week_09|09.08 ~ 09.14|✅|✅|✅|✅|
 |week_10|09.15 ~ 09.22|✅|✅|✅|🔺|
 |week_11|09.23 ~ 09.27|✅|✅|✅|✅|
+|week_12|09.28 ~ 10.05|✅|✅|✅|✅|
+|week_13|10.06 ~ 10.12|✅|🔺|✅|🔺|
+|week_14|10.13 ~ 10.19|||||
 </br>
 
 ## :pushpin: 진행방식
@@ -67,7 +70,7 @@ ex) refactor: BOJ_18312 주석 작성
 </br>
 
 ## :clipboard: 주차별 진행
-|주차|일정|문제 유형|필수 문제|난이도|비고|
+|주차|일정|문제 유형|필수 문제|난이도|선택 문제|
 |:--:|:--:|:--:|:--|:--:|:--:|
 |01_week|07.27(목) 21:00|완전탐색|1️⃣ [부분수열의 합](https://www.acmicpc.net/problem/1182)</br>2️⃣ [암호 만들기](https://www.acmicpc.net/problem/1759)</br>3️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) |🥈2 </br> 🥇5 </br> 🥈2|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89)|
 |week_02|08.03(목) 21:00|정렬|1️⃣ [화살표 그리기](https://www.acmicpc.net/problem/15970)</br>2️⃣ [단어 정렬](https://www.acmicpc.net/problem/1181)</br>3️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) |🥈4 </br> 🥈5 </br> 🥈3|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03~04-%EC%A0%95%EB%A0%AC)|
@@ -79,8 +82,11 @@ ex) refactor: BOJ_18312 주석 작성
 |week_07|09.03(일) 20:00 (온라인) |오답 노트|각자 8월 문제 중 복습할 문제 다시 풀기 |||
 |week_08|09.07(목) 20:00 |Programmers Lv.3 3문제|1️⃣ [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)</br>2️⃣ [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)</br>3️⃣ [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)</br>|Lv.3||
 |week_09|09.14(목) 12:30 |Programmers Lv.3 3문제|1️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)</br>2️⃣ [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)</br>3️⃣ [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)</br>|Lv.3||
-|week_10|09.22(금) 12:30 |Programmers Lv.3 3문제|1️⃣ [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)</br>2️⃣ [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)</br>3️⃣ [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)</br>|Lv.3||
+|week_10|09.22(목) 12:30 |Programmers Lv.3 3문제|1️⃣ [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)</br>2️⃣ [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)</br>3️⃣ [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)</br>|Lv.3||
 |week_11|09.27(수) 12:30 |0/1 Knapsack & 최장증가수열 & 플로이드워샬|1️⃣ [평범한 배낭](https://www.acmicpc.net/problem/12865)</br>2️⃣ [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)</br>3️⃣ [플로이드](https://www.acmicpc.net/problem/11404)</br>|🥇5 </br> 🥈2 </br> 🥇4 </br>||
+|week_12|10.05(목) 12:30|문자열|1️⃣ [회문](https://www.acmicpc.net/problem/17609)</br>2️⃣ [괄호 제거](https://www.acmicpc.net/problem/2800)</br>3️⃣ [문자열 폭발](https://www.acmicpc.net/problem/9935)</br> |🥇5 </br> 🥇5 </br> 🥇4 ||
+|week_13|10.12(목) 12:30|집합과 조합론|1️⃣ [사전](https://www.acmicpc.net/problem/1256)</br>2️⃣ [순열의 순서](https://www.acmicpc.net/problem/1722)</br>3️⃣ [괄호](https://www.acmicpc.net/problem/10422)</br> |🥇2 </br> 🥇5 </br> 🥇4 ||
+|week_14|10.19(목) 12:30| Programmers SQL 고득점 Kit</br> Lv.2, Lv.3 | [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) | Lv.2</br> Lv.3 | Lv.4 |
 </br>
 </br>
 
