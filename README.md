@@ -12,11 +12,11 @@
 </br>
 
 ## ✔️ 이번주 문제
-|주차|날짜|문제 유형|필수 문제|난이도|선택 문제|
+|주차|날짜|문제 유형|필수 문제|난이도|비고|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|week_15|10.26(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3||
+|week_16|11.2(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3| 15주차에 안 푼 2문제 풀기|
 </br>
-
+ㅎ
 ## :chart_with_upwards_trend: 진행상황
 * 완료 시 ✅
 * 미 완료 시 ❌
@@ -38,7 +38,9 @@
 |week_11|09.23 ~ 09.27|✅|✅|✅|✅|
 |week_12|09.28 ~ 10.05|✅|✅|✅|✅|
 |week_13|10.06 ~ 10.12|✅|🔺|✅|🔺|
-|week_14|10.13 ~ 10.19|||||
+|week_14|10.13 ~ 10.19|✅|✅|✅|✅|
+|week_15|10.20 ~ 10.26|🔺|✅|✅|🔺|
+|week_16|10.27 ~ 11.02|||||
 </br>
 
 ## :pushpin: 진행방식
@@ -70,7 +72,7 @@ ex) refactor: BOJ_18312 주석 작성
 </br>
 
 ## :clipboard: 주차별 진행
-|주차|일정|문제 유형|필수 문제|난이도|선택 문제|
+|주차|일정|문제 유형|필수 문제|난이도|비고|
 |:--:|:--:|:--:|:--|:--:|:--:|
 |01_week|07.27(목) 21:00|완전탐색|1️⃣ [부분수열의 합](https://www.acmicpc.net/problem/1182)</br>2️⃣ [암호 만들기](https://www.acmicpc.net/problem/1759)</br>3️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) |🥈2 </br> 🥇5 </br> 🥈2|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89)|
 |week_02|08.03(목) 21:00|정렬|1️⃣ [화살표 그리기](https://www.acmicpc.net/problem/15970)</br>2️⃣ [단어 정렬](https://www.acmicpc.net/problem/1181)</br>3️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) |🥈4 </br> 🥈5 </br> 🥈3|[선택문제](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03~04-%EC%A0%95%EB%A0%AC)|
@@ -87,6 +89,7 @@ ex) refactor: BOJ_18312 주석 작성
 |week_12|10.05(목) 12:30|문자열|1️⃣ [회문](https://www.acmicpc.net/problem/17609)</br>2️⃣ [괄호 제거](https://www.acmicpc.net/problem/2800)</br>3️⃣ [문자열 폭발](https://www.acmicpc.net/problem/9935)</br> |🥇5 </br> 🥇5 </br> 🥇4 ||
 |week_13|10.12(목) 12:30|집합과 조합론|1️⃣ [사전](https://www.acmicpc.net/problem/1256)</br>2️⃣ [순열의 순서](https://www.acmicpc.net/problem/1722)</br>3️⃣ [괄호](https://www.acmicpc.net/problem/10422)</br> |🥇2 </br> 🥇5 </br> 🥇4 ||
 |week_14|10.19(목) 12:30| Programmers SQL 고득점 Kit</br> Lv.2, Lv.3 | [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) | Lv.2</br> Lv.3 | Lv.4 |
+|week_15|10.26(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3| 4문제 중 2문제 선택|
 </br>
 </br>
 
