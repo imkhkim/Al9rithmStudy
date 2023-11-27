@@ -14,7 +14,7 @@
 ## ✔️ 이번주 문제
 |주차|날짜|문제 유형|필수 문제|난이도|비고|
 |:--:|:--:|:--:|:--|:--:|:--:|
-|week_17|11.09(목) 12:30| A형 대비 |1️⃣ [디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)</br>2️⃣ [재미있는 오셀로 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj)</br> |모의 SW 역량 </br> D3 </br>| |
+|week_19|11.23(목) 12:30| 오답노트 | 각자 푼 문제 중 어려웠던 문제 다시 풀기 </br> || |
 </br>
 
 ## :chart_with_upwards_trend: 진행상황
@@ -40,8 +40,10 @@
 |week_13|10.06 ~ 10.12|✅|🔺|✅|🔺|
 |week_14|10.13 ~ 10.19|✅|✅|✅|✅|
 |week_15|10.20 ~ 10.26|🔺|✅|✅|🔺|
-|week_16|10.27 ~ 11.02|||||
-|week_17|11.03 ~ 11.09|||||
+|week_16|10.27 ~ 11.02|✅|✅|✅|✅|
+|week_17|11.03 ~ 11.09|✅|✅|✅|✅|
+|week_18|11.10 ~ 11.16|✅|✅|✅|✅|
+|week_19|11.17 ~ 11.23|||||
 </br>
 
 ## :pushpin: 진행방식
@@ -92,6 +94,8 @@ ex) refactor: BOJ_18312 주석 작성
 |week_14|10.19(목) 12:30| Programmers SQL 고득점 Kit</br> Lv.2, Lv.3 | [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) | Lv.2</br> Lv.3 | Lv.4 |
 |week_15|10.26(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3| 4문제 중 2문제 선택|
 |week_16|11.2(목) 12:30| 분할 정복 & 우선순위 큐 & DP & 구현 |1️⃣ [프렉탈 평면](https://www.acmicpc.net/problem/1030)</br>2️⃣ [순회강연](https://www.acmicpc.net/problem/2109)</br>3️⃣ [내리막길](https://www.acmicpc.net/problem/1520)</br>4️⃣ [아기 상어](https://www.acmicpc.net/problem/16236) |🥇3 </br> 🥇3 </br> 🥇3 </br> 🥇3| 4문제 중 나머지 2문제|
+|week_17|11.09(목) 12:30| A형 대비 |1️⃣ [디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)</br>2️⃣ [재미있는 오셀로 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj)</br> |모의 SW 역량 </br> D3 </br>| |
+|week_18|11.16(목) 12:30| A형 대비 |1️⃣ [보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)</br>2️⃣ [나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)</br> |D4 </br> D2 </br>| |
 </br>
 </br>
 
